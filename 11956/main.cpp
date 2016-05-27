@@ -24,7 +24,7 @@ int main() {
     string s;
 
     cin >> num_t;
-    
+
     while (num_t--) {
 
         int mem[MEM_SIZE] = {};
